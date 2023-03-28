@@ -1,6 +1,9 @@
 # Gerador-de-senhas
+
 Gerador de senhas aleatorias 
+
 #Importação de módulos que usarei para esse sistema
+
 import string as s
 from random import SystemRandom as sr
 
